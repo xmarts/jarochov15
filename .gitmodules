@@ -2,3 +2,8 @@
 	path = xmarts/branch
 	url = git@github.com:xmarts/branch.git
 	branch = 15.0
+
+[submodule "xmarts/price_inclusive_tax"]
+	path = xmarts/price_inclusive_tax
+	url = git@github.com:xmarts/price_inclusive_tax.git
+	branch = main
