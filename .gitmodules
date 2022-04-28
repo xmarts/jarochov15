@@ -7,3 +7,8 @@
 	path = xmarts/credit_limit_alert_update
 	url = git@github.com:xmarts/credit_limit_alert_update.git
 	branch = 15.0
+
+[submodule "xmarts/fields_functions_jarochito"]
+	path = xmarts/fields_functions_jarochito
+	url = git@github.com:xmarts/fields_functions_jarochito.git
+	branch = 15.0
